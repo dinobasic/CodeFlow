@@ -1,7 +1,7 @@
 CodeFlow
 ========
 
-CodeFlow is an JavaScript app intended to show how the various components of a code are linked together.
+CodeFlow is a JavaScript app intended to show how the various components of a code are linked together.
 
 It is intended for the analysis of JavaScript and Java code only. It is still experimental, in the sense that is isn't yet clear whether the approach it takes (described below) does indeed help the software developer to better perform. That's why its usage shall decide on that matter.
 
